@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f51247a1a7d934ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e9de06a1a0efb8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9281f9963f0d00dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Kubernetes/intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intro"
+            }
+          },
+          {
+            "id": "8c6367519065daa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/PM/00. IT 용어 정리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. IT 용어 정리"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4c600412245362c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4494f29b88e4de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0a75f79627dcc76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "639bf79a6fdd6cda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ce7cd1e061844b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8ef809c211b155a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4705441abdedaae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d4f1d282a8afdb1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test-document/Pcce.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pcce"
+            }
+          },
+          {
+            "id": "1298a772ad9f2666",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test-document/Pcce.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pcce"
+            }
+          },
+          {
+            "id": "970d912481622d45",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "198869c6fc42a65b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test-document/Pcce.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pcce"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c6367519065daa5",
+  "lastOpenFiles": [
+    "컨퍼런스/00. 25.05.28 아틀라시안.md",
+    "docs/PM/00. IT 전체 영역 보기.md",
+    "컨퍼런스",
+    "docs/Kubernetes/3. Kubernetes 설치.md",
+    "docs/Kubernetes/1. intro.md",
+    "docs/Kubernetes/2. CICD에서의 쿠버네티스.md",
+    "docs/PM/00. IT 용어 정리.md",
+    "docs/gitlab/gitlab-runner.md",
+    "docs/framework/Untitled",
+    "docs/framework/spring",
+    "docs/framework/vue",
+    "docs/framework/react",
+    "docs/framework/svelte",
+    "docs/framework",
+    "docs/Untitled.md",
+    "template",
+    "docs/Python",
+    "docs/Golang",
+    "test-document/종합 시험.md",
+    "test-document/Pcce.md",
+    "docs/PM/WBS 작성관리.md",
+    "docs/PM/PM의 주요 관리 포인트 이해.md",
+    "docs/PM/고객 기본 대응 지식.md",
+    "image/Pasted image 20250505123850.png",
+    "image/Pasted image 20250505122715.png",
+    "image/Pasted image 20250505122306.png",
+    "docs/PM/자주 발생하는 문제 대응 방안.md",
+    "docs/PM/주간월간 보고 관리.md",
+    "docs/PM/설계 및 고객 협의, 테스트 관리.md",
+    "docs/PM/과업 분석 및 이해관계자 분석.md",
+    "doosan-book/개발자의 글쓰기.md",
+    "doosan-book/10 년차 IT 기획자의 노트.md",
+    "project/READ_ME_PJ01.md"
+  ]
+}
